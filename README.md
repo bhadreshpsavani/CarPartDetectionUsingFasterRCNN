@@ -23,6 +23,7 @@ When you complete the Dataset Labeling part in Microsoft VoTT in Export Setting 
 ![ExportAsCsv](Utils/Images/ExportAsCSV.png)
 
 ## Faster RCNN Architecture Overview: 
+![FasterRCNNArchitecture](Utils/Images/FasterRCNNArchitecture.jpg)
 
 Here are the few articles which can develop Understanding regarding Faster RCNN: 
 - [faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
