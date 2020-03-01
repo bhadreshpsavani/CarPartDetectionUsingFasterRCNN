@@ -1,4 +1,8 @@
 # Car Parts Detection Using Fatser RCNN for Custom Dataset:
+This project has three steps: 
+1. Create Custom Dataset
+2. [Training RPN and RCNN Network](FRCNNCarPartDetectionTrain.ipynb)
+3. [Detect Object](FRCNNCarPartDetectionTest.ipynb)
 
 ## How to create your own custom dataset for Object Detection: 
 I have come across three tools so far, which can help us to label images for object detection,
@@ -6,7 +10,7 @@ I have come across three tools so far, which can help us to label images for obj
 - [LabelMe](http://labelme.csail.mit.edu/Release3.0/)
 - [VGG Image Annotator](http://www.robots.ox.ac.uk/~vgg/software/via/)
 
-For this Project, i have used Microsoft VoTT. Created 500 labeled images having five classes:
+For this Project, i used Microsoft VoTT. I have Created 500 labeled images having five classes:
 1. Display Glass
 2. Side Glass
 3. Wheel
