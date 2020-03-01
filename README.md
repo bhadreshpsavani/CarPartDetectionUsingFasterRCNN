@@ -22,6 +22,8 @@ For this Project, i used Microsoft VoTT. I have Created 500 labeled images havin
 When you complete the Dataset Labeling part in Microsoft VoTT in Export Setting you have to choose export as *CSV file*.
 ![ExportAsCsv](Utils/Images/ExportAsCSV.png)
 
+## Faster RCNN Architecture Overview: 
+
 Here are the few articles which can develop Understanding regarding Faster RCNN: 
 - [faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
 - [review-of-deep-learning-algorithms-for-object-detection](https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)
