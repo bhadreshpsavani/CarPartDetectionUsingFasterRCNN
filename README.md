@@ -13,7 +13,7 @@ For this Project, i have used Microsoft VoTT. Created 500 labeled images having 
 4. Door
 5. Light
 
-![LabeledImage]()
+![LabeledImage](Utils/Images/LabeledImage.png)
 
 Here are the few articles which can develop Understanding regarding Faster RCNN: 
 - [faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
